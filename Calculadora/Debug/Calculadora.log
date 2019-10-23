@@ -1,0 +1,12 @@
+﻿  main.cpp
+D:\Mauri\Documents\Programas\Calculadora\Calculadora\conversiones.h(23,32): warning C4244: '-=': conversión de 'double' a 'int'; posible pérdida de datos
+D:\Mauri\Documents\Programas\Calculadora\Calculadora\conversiones.h(49,20): warning C4018: '<=': no coinciden signed/unsigned
+D:\Mauri\Documents\Programas\Calculadora\Calculadora\conversiones.h(53,39): warning C4244: '+=': conversión de 'double' a 'int'; posible pérdida de datos
+D:\Mauri\Documents\Programas\Calculadora\Calculadora\conversiones.h(64,20): warning C4018: '<': no coinciden signed/unsigned
+D:\Mauri\Documents\Programas\Calculadora\Calculadora\conversiones.h(138,20): warning C4018: '<': no coinciden signed/unsigned
+D:\Mauri\Documents\Programas\Calculadora\Calculadora\conversiones.h(142,20): warning C4018: '<': no coinciden signed/unsigned
+D:\Mauri\Documents\Programas\Calculadora\Calculadora\conversiones.h(147,30): warning C4244: '+=': conversión de 'double' a 'int'; posible pérdida de datos
+D:\Mauri\Documents\Programas\Calculadora\Calculadora\conversiones.h(186,20): warning C4018: '<': no coinciden signed/unsigned
+D:\Mauri\Documents\Programas\Calculadora\Calculadora\conversiones.h(243,20): warning C4018: '<': no coinciden signed/unsigned
+D:\Mauri\Documents\Programas\Calculadora\Calculadora\main.cpp(397,20): warning C4018: '<': no coinciden signed/unsigned
+  Calculadora.vcxproj -> D:\Mauri\Documents\Programas\Calculadora\Debug\Calculadora.exe
